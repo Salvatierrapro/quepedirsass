@@ -1,0 +1,17 @@
+.conteiner .espacio {
+  flex-direction: column;
+  justify-content: center;
+}
+
+footer {
+  margin-top: 200px;
+  width: 100%;
+  height: 100%;
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+}
+
+.conteiner {
+  margin-top: 50px;
+}/*# sourceMappingURL=style.css.map */
